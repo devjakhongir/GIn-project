@@ -1,0 +1,4 @@
+github.com/asadbekGo/golang_crud v0.0.0-20221209162629-985915ef4993 h1:8FyaJD1vHwkqNOEnbP+1dkOfe5dFUxJ9K6JuJXoN7TM=
+github.com/asadbekGo/golang_crud v0.0.0-20221209162629-985915ef4993/go.mod h1:XDJ0t1B3dQljfN8ixx3q3OQZ/j9M1B9jhsPri0lnmZQ=
+github.com/lib/pq v1.10.7 h1:p7ZhMD+KsSRozJr34udlUrhboJwWAgCg34+/ZZNvZZw=
+github.com/lib/pq v1.10.7/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
